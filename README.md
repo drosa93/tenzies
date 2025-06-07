@@ -53,8 +53,10 @@ A fun and interactive dice game built with React! The goal is to roll all dice u
    ```bash
    git clone https://github.com/your-username/tenzies-game.git
    cd tenzies-game
+   
 2.Install dependencies
   npm install
+  
 3. Start the dev server:
   npm start
 
