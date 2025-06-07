@@ -57,7 +57,7 @@ A fun and interactive dice game built with React! The goal is to roll all dice u
 2.Install dependencies
   npm install
   
-3. Start the dev server:
+3.Start the dev server:
   npm start
 
 
